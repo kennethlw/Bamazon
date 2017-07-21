@@ -6,7 +6,7 @@ Words are great, but pictures are better! Let's take a look at some screenshots 
 
 ###Customer View
 
-![Customer Menu](/images/image1.jpg)
+![Customer Menu](/blob/master/images/image1.jpg)
 
 Here we can see what the customer will see. They can either choose to purchase an item or exit the store without making a purchase.
 
