@@ -1,10 +1,10 @@
-#Hello Visitor!
+Hello Visitor!
 
 This app will be used to run and maintain a storefront by using either a customer view (bamazonCustomer.js) or a manager view (bamazonManager.js). They will both access the same database but have different functionality.
 
 Words are great, but pictures are better! Let's take a look at some screenshots of the program.
 
-###Customer View
+Customer View
 
 ![Customer Menu](https://github.com/kennethlw/Bamazon/blob/master/Images/Image1.png)
 
@@ -26,7 +26,7 @@ Now if there is not sufficient quantity to fulfill the customer order, the progr
 
 Once the customer wants to leave the store, the program displays the farewell message
 
-###Manager View
+Manager View
 
 ![Manager Menu](https://github.com/kennethlw/Bamazon/blob/master/Images/Image6.png)
 
